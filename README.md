@@ -12,8 +12,15 @@ Implementación del juego "Amigo Secreto", el cual consiste en ingresar varios n
 
   1. Definición de Variables
   2. Condiciones Iniciales
+     - Se establecen las condiciones por default.
   3. Agregar amigo
+     - Se hacen las siguientes validaciones para el nombre ingresado:
+       - El nombre no puede ser un valor "" (vacio).
+       - No puede ingresarse el mismo nombre 2 veces.
+       - Los nombres no pueden contener numeros.
   4. Sortear amigo
+     - No se realizará el sorteo con 1 persona.
+     - Luego de realizar el sorteo, ya no se podrá añadir mas personas a la lista, ni hacer otro sorteo hasta limpiar todo. (por esa razón se ha creado el botón "Nuevo Juego")
 
 Las descripciones puntuales de cada paso se incluyen en el código como comentario para su fácil visualización.
 
