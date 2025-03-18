@@ -15,6 +15,6 @@ Implementación del juego "Amigo Secreto", el cual consiste en ingresar varios n
   3. Agregar amigo
   4. Sortear amigo
 
-- Las descripciones puntuales de cada paso se incluyen en el código como comentario para su fácil visualización.
+Las descripciones puntuales de cada paso se incluyen en el código como comentario para su fácil visualización.
 
 Gracias por revisar mi proyecto!
